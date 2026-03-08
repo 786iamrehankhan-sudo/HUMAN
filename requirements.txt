@@ -1,7 +1,8 @@
 fastapi
-uvicorn[standard]
+uvicorn
 jinja2
 pydantic
 email-validator
 user-agents
+
 python-multipart
